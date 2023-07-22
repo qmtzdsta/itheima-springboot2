@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Springboot_mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springboot_mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apptset/springboot-ssmp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apptset/springboot-ssmp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apptset/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apptset/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-generate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-generate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mybatisplus/springboot_druid/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mybatisplus/springboot_druid/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mybatisplus/springboot_ssmp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mybatisplus/springboot_ssmp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mybatisplus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mybatisplus/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbott-ssmp/springboot-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbott-ssmp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbott-ssmp/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
